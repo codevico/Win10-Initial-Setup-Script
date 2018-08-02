@@ -91,17 +91,17 @@ HideRecentShortcuts
 SetExplorerThisPC
 ShowThisPCOnDesktop
 # ShowUserFolderOnDesktop
-HideDesktopFromThisPC
+# HideDesktopFromThisPC
 # HideDesktopFromExplorer
-HideDocumentsFromThisPC
+# HideDocumentsFromThisPC
 # HideDocumentsFromExplorer
-HideDownloadsFromThisPC
+# HideDownloadsFromThisPC
 # HideDownloadsFromExplorer
-HideMusicFromThisPC
+# HideMusicFromThisPC
 # HideMusicFromExplorer
-HidePicturesFromThisPC
+# HidePicturesFromThisPC
 # HidePicturesFromExplorer
-HideVideosFromThisPC
+# HideVideosFromThisPC
 # HideVideosFromExplorer
 Hide3DObjectsFromThisPC
 # Hide3DObjectsFromExplorer
